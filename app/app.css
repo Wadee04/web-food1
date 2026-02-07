@@ -1,0 +1,8 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+body {
+    fonnt-family: 'Luckiest Guy', sans-serif;
+    fonnt-family: 'Comfortaa', sans-serif;
+
+}
